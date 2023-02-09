@@ -1,1 +1,48 @@
+body {
+    margin: 20px;
+}
 
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.container {
+    background-color: white;
+    margin-bottom: 30px;
+}
+.password{
+  color: black;
+}
+h2 {
+    text-align: center;
+    font-size: 20px;
+}
+.btn_login{
+float: right;
+  border-radius: 20px;
+  background-color: #1db954;
+  border-color: #1db954;
+}
+.btn_login:hover{
+  background-color: #1ed760;
+}
+.bttn_signup {
+  float: right;
+    background: white;
+   position: absolute;
+  border-radius: 50px;
+  border: 2px solid #8c8c8c;
+}
+
+.button:hover{
+background-color:#8c8c8c;
+color: black;
+}
+
+.sign_up {
+    text-align: center;
+    font-size: 20px;
+    color: #404040;
+  font-weight: bold;
+}
